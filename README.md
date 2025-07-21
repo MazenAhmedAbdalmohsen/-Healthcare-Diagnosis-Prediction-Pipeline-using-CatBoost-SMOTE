@@ -7,7 +7,7 @@ This repository contains a complete end-to-end machine learning pipeline for pre
 ## 📁 File Structure
 
 - `healthcare_dataset.csv`: The dataset containing patient information and medical condition labels.
-- `Healthcare_Diagnosis_.ipynb`: Jupyter notebook with all code.
+- `healthcare_diagnosis.py`: Jupyter notebook with all code.
 - `requirements.txt`: Python packages required to run the notebook.
 - `README.md`: Project documentation.
 
